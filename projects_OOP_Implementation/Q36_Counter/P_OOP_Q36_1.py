@@ -19,8 +19,7 @@ class separator:
         return self.words
     
 
-S=separator()
-print(S.count())
+
 
 
 
