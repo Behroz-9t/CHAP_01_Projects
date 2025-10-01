@@ -4,7 +4,7 @@ def main():
 
 
     p=SentencePunishmentIterator()
-    p.punishment()
+    print(p)
 
 
 if __name__ == "__main__":
